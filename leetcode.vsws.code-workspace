@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"ostream": "cpp",
+			"map": "cpp",
+			"xtree": "cpp",
+			"utility": "cpp",
+			"ios": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
